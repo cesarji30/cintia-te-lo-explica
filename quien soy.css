@@ -1,0 +1,43 @@
+header {
+    text-align: left;
+}
+
+nav img {
+    border-image-width: auto;
+}
+
+body ul {
+    border: red 20px solid;
+    padding-right: 50px;
+    list-style: none;
+    text-shadow: 5cm;
+    margin: 1cm;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 50px;
+    line-height: 50Px;
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 20px
+}
+
+div#titulo-pagina {
+    text-align: center;
+    font-size: 70px;
+    background-color: rgba(111, 0, 255, 0.479);
+border-radius: 50px;
+}
+
+body  {
+    text-align: center;
+    font-size: 20px;
+    background-color:blueviolet
+
+}
+
+body footer {
+    font-size: 25px;
+    text-align: center;
+    text-shadow: 10ch;
+    padding: 30px;
+    border: 25cm;
+}

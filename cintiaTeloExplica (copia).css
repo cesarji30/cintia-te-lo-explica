@@ -1,0 +1,36 @@
+head {
+  background-position-x: center;
+  text-align: 500px;
+}
+
+header {
+  background-color:yellowgreen;
+  text-align: center;
+  font-size: 06cm;
+
+}
+
+div#titulo-pagina {
+  text-align: center;
+  font-size: 15cm;
+  background-color: rgba(111, 0, 255, 0.479);
+}
+
+body ul {
+  border: red 50px solid;
+  padding-right: 100px;
+  list-style: none;
+  text-shadow: 5cm;
+  margin: 2cm;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 05cm;
+  line-height: 500Px;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+body footer {
+  font-size: 3cm;
+  text-align: center;
+  text-shadow: 5ch;
+}

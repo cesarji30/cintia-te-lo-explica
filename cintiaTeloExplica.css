@@ -1,0 +1,42 @@
+head {
+  background-position-x: center;
+  text-align: 500px;
+}
+
+
+header {
+  background-color:yellowgreen;
+  text-align: center;
+  font-size: 20px;
+
+}
+
+div#titulo-pagina {
+  text-align: center;
+  /* font-size: 15cm; */
+  background-color: rgba(111, 0, 255, 0.479);
+}
+
+
+
+body ul {
+  border: red 5px solid;
+  /* list-style: none; */
+  text-shadow: 5cm;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  background-color: aquamarine;
+  font-size: 50px;
+}
+
+body ul li{
+  display: block;
+}
+
+
+
+body footer {
+  font-size: 3cm;
+  text-align: center;
+  text-shadow: 5ch;
+}
